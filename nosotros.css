@@ -1,0 +1,15 @@
+header, main{
+    max-width: 90%;
+    margin: 0 auto;
+}
+.miCarrousel{
+    height: 45%;
+}
+.Cartas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main, h1{
+    text-align: center;
+}
